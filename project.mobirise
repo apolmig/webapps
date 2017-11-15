@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "energiaNaccion",
-    "currentPage": "page1.html",
+    "currentPage": "Index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 46,
     "versionPublish": "4.4.1",
@@ -42,7 +42,7 @@
     "google-analytics": ""
   },
   "pages": {
-    "index.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -560,10 +560,10 @@
         }
       ]
     },
-    "page1.html": {
+    "Index.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "Page 1",
+        "title": "Index",
         "order": 1
       },
       "components": [
